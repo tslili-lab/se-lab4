@@ -1,0 +1,4 @@
+#Creating a spaceship with one torpedo in the faulty primary store and zero torpedos in the secondary store
+GT4500,1,1,0,0
+TORPEDO,SINGLE #should attempt to fire from the primary store but fail to do so
+TORPEDO,SINGLE #should attempt to fire from the secondary store but fail to do so as well

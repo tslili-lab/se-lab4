@@ -1,0 +1,4 @@
+#Create a ship with 2 torpedos, one in each store
+GT4500,1,0,1,0
+TORPEDO,SINGLE  #<-fire from the primary store
+TORPEDO,SINGLE  #<-fire from the secondary store

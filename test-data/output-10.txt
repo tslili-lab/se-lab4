@@ -1,0 +1,3 @@
+SUCCESS #<-GT4500
+SUCCESS #<-firing ten torpedos from the primary store
+SUCCESS #<-there are nine more torpedos left and this fires one from the primary store

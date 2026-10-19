@@ -1,0 +1,5 @@
+#Create a ship with two torpedos in the primary store and one torpedo in the secondary store
+GT4500,2,0,1,1
+TORPEDO,SINGLE #should fire from the primary store
+TORPEDO,SINGLE #should try to fire from the secondary store and fail to do so
+TORPEDO,SINGLE #should not fire because of previous failure in the secondary store
