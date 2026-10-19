@@ -1,0 +1,3 @@
+SUCCESS #<-GT4500
+FAIL #<-fails to fire the first torpedo from the empty primary store
+FAIL #<-fails to fire the torpedo from the faulty secondary store

@@ -1,0 +1,4 @@
+SUCCESS #<-GT4500
+FAIL #<-first torpedo launch from the primary store failed 
+SUCCESS  # <- second torpedo from the secondary store attempted
+FAIL #<-third torpedo from primary store again not attempted for a second time

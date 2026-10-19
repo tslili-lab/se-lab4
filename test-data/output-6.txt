@@ -1,0 +1,4 @@
+SUCCESS #<-GT4500
+SUCCESS #<-first torpedo from the primary store sucessfully fired
+SUCCESS  # <- second torpedo from the secondary store succesfully fired
+SUCCESS #<-third torpedo from the secondary store

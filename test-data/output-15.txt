@@ -1,0 +1,2 @@
+SUCCESS #<-GT4500
+FAIL #<-there are no  torpedos at  all in the secondary store and the primary store can not fire its torpedos

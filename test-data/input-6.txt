@@ -1,0 +1,5 @@
+#Create a ship with two torpedos in the secondary store and one torpedo in the primary store
+GT4500,1,0,2,0
+TORPEDO,SINGLE #should fire from the primary store successfully and emptying it in the proccess
+TORPEDO,SINGLE #should try to fire from the secondary store and succeed
+TORPEDO,SINGLE #should try to fire from the primary store, but seeing that it's empty end up fyiring successfully from the secondary store

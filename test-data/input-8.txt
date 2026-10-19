@@ -1,0 +1,4 @@
+#Creating a spaceship with stocked torpedo stores that never fail
+GT4500,2,0,1,0
+TORPEDO,ALL  # should have fired two torpedos in total from both stores
+TORPEDO,SINGLE #should fire one torpedo from the primary store

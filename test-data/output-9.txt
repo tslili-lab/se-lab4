@@ -1,0 +1,3 @@
+SUCCESS #<-GT4500
+SUCCESS #<-firing one torpedo from the secondary store
+SUCCESS #<-firing one torpedo from the secondery store

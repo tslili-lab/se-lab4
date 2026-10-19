@@ -1,0 +1,3 @@
+#Creating a spaceship with the secondary store being empty and the primary store being full but not working
+GT4500,10,1,0,0
+TORPEDO,ALL  # should have fired no torpedos at all
